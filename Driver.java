@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-// Driver class inherits from RescueAimal
+// Driver class 
 public class Driver {
 	
 	// Create dog array list to store dogs and their attributes
