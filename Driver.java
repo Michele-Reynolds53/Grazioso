@@ -75,7 +75,7 @@ public class Driver {
               System.out.println("Invalid entry."); 
            }
          }
-		   // quit when user enters 'q'
+	  // execute loop as long as entry is not 'q'
            while (menuOption != 'q');   		 
     }
     
